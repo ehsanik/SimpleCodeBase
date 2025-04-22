@@ -6,8 +6,8 @@ This is a minimal Python project that demonstrates how to use NumPy and Matplotl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/simple-math-plot.git
-cd simple-math-plot
+git clone https://github.com/ehsanik/SimpleCodeBase.git
+cd SimpleCodeBase
 ```
 
 2. Create and activate a virtual environment:
